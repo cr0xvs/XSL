@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="CD_4.xsl"?>
+<Discos>
+    <Disco>
+        <Album>Konbanwa</Album>
+        <Artista>Sticky M.A.</Artista>
+        <Cancion tiempo="160">Meliodas</Cancion>
+        <Cancion tiempo="180">Extendo</Cancion>
+        <Cancion tiempo="212">Tus Ojos</Cancion>
+        <Cancion tiempo="201">Control</Cancion>
+        <Cancion tiempo="180">Bajo La Lluvia</Cancion>
+        <Sello>Agorazein</Sello>
+        <FechaPublicacion>26 Jun 2020</FechaPublicacion>
+    </Disco>
+    <Disco>
+        <Album>Martes 13</Album>
+        <Artista>Natos y Waor</Artista>
+        <Cancion tiempo="256">Problemas</Cancion>
+        <Cancion tiempo="245">Delirium</Cancion>
+        <Cancion tiempo="219">Contrabando</Cancion>
+        <Cancion tiempo="212">Malas Noticias</Cancion>
+        <Cancion tiempo="210">Lip Gloss</Cancion>
+        <Sello>Natos Y Waor</Sello>
+        <FechaPublicacion>12 Oct 2015</FechaPublicacion>
+    </Disco>
+    <Disco>
+        <Album>Desde el fin del mundo</Album>
+        <Artista>Duki</Artista>
+        <Cancion tiempo="327">Sudor y Trabajo</Cancion>
+        <Cancion tiempo="210">Pintao</Cancion>
+        <Cancion tiempo="212">Chico Estrella</Cancion>
+        <Cancion tiempo="214">Volando Bajito</Cancion>
+        <Cancion tiempo="264">Cuanto</Cancion>
+        <Sello> SSJ Records / DALE PLAY Records</Sello>
+        <FechaPublicacion>22 Apr 2021</FechaPublicacion>
+    </Disco>
+    <Disco>
+        <Album>Antezana 247</Album>
+        <Artista>YSY A</Artista>
+        <Cancion tiempo="355">Hidro</Cancion>
+        <Cancion tiempo="312">Vuelta a la Luna</Cancion>
+        <Cancion tiempo="454">El Amanecer</Cancion>
+        <Cancion tiempo="123">Enamorada del diablo</Cancion>
+        <Cancion tiempo="200">Linaje</Cancion>
+        <Sello>Ysy A</Sello>
+        <FechaPublicacion>11 Nov 2018</FechaPublicacion>
+    </Disco>
+    <Disco>
+        <Album>No Encajes</Album>
+        <Artista>Kaze</Artista>
+        <Cancion tiempo="120">Venga lo que Venga</Cancion>
+        <Cancion tiempo="320">Rap</Cancion>
+        <Cancion tiempo="212">Esos Ojos</Cancion>
+        <Cancion tiempo="279">Nunca digas No</Cancion>
+        <Cancion tiempo="224">Constancia, Esfuerzo y Dedicación</Cancion>
+        <Sello>Nesta Producciones</Sello>
+        <FechaPublicacion>25 Nov 2016</FechaPublicacion>
+    </Disco>
+    <Disco>
+        <Album>HECHO A MANO</Album>
+        <Artista>YSY A</Artista>
+        <Cancion tiempo="434">Desfilar mis penas</Cancion>
+        <Cancion tiempo="245">Bardos y verdades</Cancion>
+        <Cancion tiempo="286">Como tiene que ser</Cancion>
+        <Cancion tiempo="286">Calor</Cancion>
+        <Cancion tiempo="245">Full Ice</Cancion>
+        <Sello>YSY A</Sello>
+        <FechaPublicacion>11 de noviembre de 2019</FechaPublicacion>
+    </Disco>
+    <Disco>
+        <Album>Súper Sangre Joven</Album>
+        <Artista>Duki</Artista>
+        <Cancion tiempo="266">Te Traje Flores</Cancion>
+        <Cancion tiempo="223">Its A Vibe</Cancion>
+        <Cancion tiempo="354">Hit Boy</Cancion>
+        <Cancion tiempo="253">Señorita</Cancion>
+        <Cancion tiempo="312">Me gusta lo Simple</Cancion>
+        <Sello> SSJ Records / DALE PLAY Records</Sello>
+        <FechaPublicacion>1 Nov 2019</FechaPublicacion>
+    </Disco>
+</Discos>
